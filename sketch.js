@@ -23,7 +23,7 @@ rotate(frameCount)
                       line(mouseX*cos(a*32),-mouseX*sin(a*32),100,0)}
                             }
                       else {stroke(mouseX/2,255-mouseX%255,mouseY%255)
-                          line(-100*cos(a*30),-100*sin(a*30),100,0)
+                          line(-100*cos(a*3),-100*sin(a*3),100,0)
                       }
 
                     }
